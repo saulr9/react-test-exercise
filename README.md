@@ -46,4 +46,4 @@ Deberás crear una aplicación web simple que muestre una lista de Pokémon util
 
 ## ¡Éxito!
 
-¡Esperamos con ansias tu pull request! Si tienes alguna pregunta, no dudes en contactarnos.
+¡Esperamos con ansias tu pull request! Si tienes alguna pregunta, no dudes en contactarnos...
